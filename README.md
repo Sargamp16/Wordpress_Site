@@ -8,3 +8,5 @@
 <b> Solution </b>: Implementing a straightforward WordPress site featuring essential details such as the name, photo, address, and phone number of service providers specializing in areas like plumbing, gardening, and household chores. This user-friendly platform aims to simplify the process of connecting individuals with the right service professionals quickly and efficiently.
 
 Site Link: https://newserviceshub.wordpress.com/
+
+Screenshot : ![Screenshot](https://user-images.githubusercontent.com/1234567/98765432/example.png)
