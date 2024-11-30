@@ -1,5 +1,5 @@
 
-# WordPress Site
+# Service Site
 
 <b> Concept </b>: Collecting information on service providers specializing in areas such as plumbing, gardening, and household chores in my vicinity. This aims to simplify the process of finding nearby individuals for these essential yet often overlooked tasks.
 
